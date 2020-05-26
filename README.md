@@ -10,4 +10,4 @@ Concepts Used:
 2. Subplots: https://www.youtube.com/watch?v=Ql8QPcp8818
 3. Correlation: https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLfdyCoAxs1RGON-lsUjK3MibRWE6sv6CF&index=8
 4. Random Forest Regressor: https://www.youtube.com/watch?v=g9c66TUylZ4
-5. Mean Absolute Error, Mean Squared Error, Root Mean Squared Error: 
+5. Mean Absolute Error, Mean Squared Error, Root Mean Squared Error: https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d
