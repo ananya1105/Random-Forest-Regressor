@@ -4,7 +4,7 @@ You find the dataset inside the data folder as petrol_consumption.csv or you can
 DataShape
 Missing Values/Duplicated Values: No missing or duplicate values
 Variables: All are Continuous Numerical Variables
-
+I have considered this article for the implementation: https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/
 Concepts Used:
 1. StandardScaler: https://stackoverflow.com/questions/40758562/can-anyone-explain-me-standardscaler
 2. Subplots: https://www.youtube.com/watch?v=Ql8QPcp8818
